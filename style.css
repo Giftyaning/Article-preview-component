@@ -76,10 +76,12 @@
     position: absolute;
     border-radius: .2em;
     gap: 1em;
-    top: 42%;
+    top: 48%;
     left: 85%;
     width: 20%;
     max-width: 30%;
     padding: .5em;
     display: none;
+    color: #ffff;
 }
+
