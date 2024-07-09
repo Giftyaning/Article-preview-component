@@ -5,13 +5,14 @@
 }
 
 .container{
+    position: relative;
     display: flex;
     max-width: 70%;
     height: 20em;
     margin: 15em;
     border-radius: .5em;
     background-color: #ecf2ecbf;
-    overflow: hidden;
+    overflow: visible;
 }
 
 .description{
@@ -69,5 +70,16 @@
 
 .pop{
     background-color: #48556a;
-    width: 30%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    border-radius: .2em;
+    gap: 1em;
+    top: 42%;
+    left: 85%;
+    width: 20%;
+    max-width: 30%;
+    padding: .5em;
+    display: none;
 }
