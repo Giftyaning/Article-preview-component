@@ -44,8 +44,8 @@ Challenge by Frontend Mentor
 Design inspiration from the Frontend Mentor community.
 
 # Contact
-GitHub: @your-username
-Frontend Mentor: @your-username
+GitHub: Giftyaning
+Frontend Mentor: Giftyaning
 Email: Giftyaningg@gmail.com
 
 
